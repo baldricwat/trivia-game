@@ -1,0 +1,31 @@
+body{
+    background-image:url('../assets/images/simpsons-background.jpg');
+    background-size: cover;
+    
+}   
+
+
+#title{
+    font-size: 70px;
+    font-weight: bold;
+    text-align:center;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding-top:70px;
+
+
+}
+.jumbotron{
+    padding-top:30px;
+}
+
+#gameScreen{
+    font-size: 30px;
+    font-family: 'Gloria Hallelujah', cursive;
+    margin-top: 50px;
+    background-color: rgb(236, 236, 114,0.1);
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+}
